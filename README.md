@@ -1,2 +1,3 @@
 
-Finding the zero-temperature phase transitions of the 1D XY Model 
+Ground State Phase Transitions in the XY Model
+
